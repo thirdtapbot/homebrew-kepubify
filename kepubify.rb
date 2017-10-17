@@ -1,9 +1,9 @@
 class Kepubify < Formula
   desc "Convert ePubs into kepubs"
   homepage "https://github.com/geek1011/kepubify"
-  url "https://github.com/geek1011/kepubify/releases/download/v1.1.5/kepubify-darwin-64bit"
-  version "1.1.5"
-  sha256 "abf229345e6f41d4ef456d75cf81788b40706067e625db5453c05750039d9694"
+  url "https://github.com/geek1011/kepubify/releases/download/v1.1.6/kepubify-darwin-64bit"
+  version "1.1.6"
+  sha256 "52dfdb862b676ada755e217078c9b04a5436b4b7462165e2ec872ad78f46ac7a"
 
   def install
     bin.install "kepubify-darwin-64bit" => "kepubify"
