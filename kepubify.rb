@@ -3,7 +3,7 @@ class Kepubify < Formula
   homepage "https://github.com/geek1011/kepubify"
   url "https://github.com/geek1011/kepubify/releases/download/v2.3.3/kepubify-darwin-64bit"
   version "2.3.3"
-  sha256 "eb4c4473b68d54a60e58eac7efafbe87f01350e810159ac64d818a52771442a1"
+  sha256 "0ace0f2cfe5e5a1e72878dccb4139e290c7840d2c09b7210315979fed375e995"
 
   def install
     bin.install "kepubify-darwin-64bit" => "kepubify"
